@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "Demo2_2_UI"
+		},
+		{
+			"path": "Demo2_3_SigSlot"
 		}
 	]
 }
