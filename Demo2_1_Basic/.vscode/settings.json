@@ -1,0 +1,18 @@
+{
+    "python.pythonPath": "C:\\Python\\Python37\\python.exe",
+    "python.linting.pylintPath": "C:\\Python\\Python37\\Scripts\\pylint.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=PyQt5",
+        "--extension-pkg-whitelist=cv2"
+    ],
+    "editor.fontSize": 16,
+    "python.autoComplete.extraPaths": [
+        "C:\\Python\\Python37\\Lib\\site-packages",
+        "C:\\Python\\Python37\\Lib\\site-packages\\cv2",
+        "C:\\Python\\Python37\\Lib\\site-packages\\PyQt5",
+        "C:\\Python\\Python37\\Lib\\site-packages\\pandas",
+        "C:\\Python\\Python37\\Lib\\site-packages\\pandas\\io\\excel"
+    ]
+}
