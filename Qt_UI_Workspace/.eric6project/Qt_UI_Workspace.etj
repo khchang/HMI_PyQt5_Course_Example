@@ -1,0 +1,49 @@
+{
+  "header": {
+    "comment": "eric tasks file for project Qt_UI_Workspace",
+    "warning": "This file was generated automatically, do not edit.",
+    "saved": "2021-09-19, 15:44:23"
+  },
+  "ProjectScanFilter": "",
+  "Tasks": [
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 32,
+      "completed": false,
+      "created": 1632035778.9334044,
+      "type": 1,
+      "uid": "{6f73f9e6-3a39-494b-8ea6-a6e80e25a056}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\Course_Region\\HMI_PyQt5_Course_Example\\Qt_UI_Workspace\\LCD_Counter_with_Two_Button\\LCD_Counter_with_Two_Button.py"
+    },
+    {
+      "summary": "TODO: not implemented yet",
+      "description": "",
+      "priority": 1,
+      "lineno": 40,
+      "completed": false,
+      "created": 1632035778.9343913,
+      "type": 1,
+      "uid": "{14850225-59e0-496c-8f21-cc8b7da65a73}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\Course_Region\\HMI_PyQt5_Course_Example\\Qt_UI_Workspace\\LCD_Counter_with_Two_Button\\LCD_Counter_with_Two_Button.py"
+    },
+    {
+      "summary": "WARNING: Any manual changes made to this file will be lost when pyuic5 is",
+      "description": "",
+      "priority": 1,
+      "lineno": 7,
+      "completed": false,
+      "created": 1632035778.9354253,
+      "type": 2,
+      "uid": "{0f076f43-0be7-4452-8ab4-05f7530183b1}",
+      "parent_uid": "",
+      "expanded": false,
+      "filename": "D:\\Course_Region\\HMI_PyQt5_Course_Example\\Qt_UI_Workspace\\LCD_Counter_with_Two_Button\\Ui_LCD_Counter_with_Two_Button.py"
+    }
+  ]
+}

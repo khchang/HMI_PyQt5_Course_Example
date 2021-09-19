@@ -8,6 +8,7 @@
         "--extension-pkg-whitelist=cv2"
     ],
     "editor.fontSize": 16,
+    "python.autoComplete.addBrackets": true,
     "python.autoComplete.extraPaths": [
         "C:\\Python\\Python39\\Lib\\site-packages",
         "C:\\Python\\Python39\\Lib\\site-packages\\cv2",

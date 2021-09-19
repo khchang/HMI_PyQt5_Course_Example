@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "Demo2_3_SigSlot"
+		},
+		{
+			"path": "ex2_4_LCD_Counter_with_Two_Button"
 		}
-	]
+	],
+	"settings": {
+		"editor.fontSize": 16
+	}
 }
