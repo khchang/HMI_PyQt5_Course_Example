@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "ex2_4_LCD_Counter_with_Two_Button"
+		},
+		{
+			"path": "ex2_5_LCD_Counter_with_Two_Button_using_pyqtSignal"
 		}
 	],
 	"settings": {
